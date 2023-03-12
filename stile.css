@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+}
+
+section{
+    background-color: blueviolet;
+    color: darkblue;
+    width: 98vw;
+    height: 20vh;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    background-color: aliceblue;
+    width: 30vw;
+    height: 30vh;
+    margin-top: 50px;
+    padding: 20px;
+}
+.dx{
+    background-color: floralwhite;
+    height: 100px;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+    color: darkblue;
+    display: flex;
+    font-size: 50pt;
+    justify-content: space-around;
+}
+
+#VB {
+    text-align: center;
+    color: darkblue;
+    font-size: 30pt;
+}
